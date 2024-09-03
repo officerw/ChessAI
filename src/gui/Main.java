@@ -5,7 +5,7 @@ import game.Game;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to a Chess Engine and AI by William Officer.");
+        System.out.println("Welcome to a Chess Engine and AI.");
         System.out.println("To begin playing, enter 'start'. To exit at any time, enter 'exit'.");
 
         Scanner keyboard = new Scanner(System.in);
